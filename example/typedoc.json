@@ -5,5 +5,5 @@
   "plugin": ["../dist"],
 	// "theme": "yaf"
   // "theme": "polymesh-docs"
-  "theme": "my-theme"
+  "theme": "typedoc-theme-zt"
 }
