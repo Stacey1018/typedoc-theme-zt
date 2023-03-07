@@ -12,5 +12,5 @@ export function load(app: Application) {
       <JSX.Raw html="console.log(`Loaded ${location.href}`)" />
     </script>
   ));
-  app.renderer.defineTheme('my-theme', MyTheme);
+  app.renderer.defineTheme('typedoc-theme-zt', MyTheme);
 }
